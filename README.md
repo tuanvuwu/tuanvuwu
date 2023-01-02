@@ -11,8 +11,6 @@
                 <b><a target="_blank" href="https://tuanvuwu.me/">Nguyen Tuan Vu</a></b>
         </samp>
 </h3>
-<img alig="right" alt="nekko" with = 400 src="![image](https://user-images.githubusercontent.com/115095181/210261936-dd7356b6-4347-4ece-8bd2-cdacf4bb8f81.png)
-">
 <br>
 
 <p align="center">
