@@ -84,5 +84,3 @@
         "Enjoy the moment! 🤗"
     </p>
 </samp>
-
-<!-- Pinned Repositories -->
